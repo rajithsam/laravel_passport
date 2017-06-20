@@ -133,7 +133,7 @@
                             {
                                 console.log(data);
                                 //$location.url('home');
-                                //window.location = "http://localhost/meshHIRE/public/home"
+                                window.location = "http://localhost/meshHIRE/public/home"
                             },
                             function(data) 
                             {
